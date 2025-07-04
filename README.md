@@ -1,6 +1,6 @@
 # Submodule for 🦇️ Soothing pastel theme for [Bat](https://github.com/sharkdp/bat)
 
-This is a partial mirror of [catppuccin/bat @ 699f60f](https://github.com/catppuccin/bat/tree/699f60fc8ec434574ca7451b444b880430319941)
+This is a partial mirror of [catppuccin/bat @ 6810349](https://github.com/catppuccin/bat/tree/6810349b28055dce54076712fc05fc68da4b8ec0)
 
 ## 💝 Thanks to
 
